@@ -14,7 +14,7 @@
 2. [How It Works](#2-how-it-works)
 3. [Results](#3-results)
 4. [Datasets](#4-datasets)
-5. [How does the app work?](#5-How does the app work?)
+5. [How to use the model/app?](#5-how-to-use-the-modelapp)
 6. [Library Versions](#6-library-versions)
 7. [Known Issues and Fixes](#8-known-issues-and-fixes)
 8. [Ethical Considerations](#9-ethical-considerations)
